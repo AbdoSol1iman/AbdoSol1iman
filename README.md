@@ -20,16 +20,10 @@
 1. **[Algorithms-Design-Project](https://github.com/AbdoSoliman1/Algorithms-Design-Project)**  
    Compare naive and optimized algorithms for different problems.  
 2. **[Bank-System-Cpp](https://github.com/AbdoSoliman1/Bank-System-Cpp)**  
-   A simple bank management system in C++ with OOP concepts.  
-3. **[Optimized-Algorithms](https://github.com/AbdoSoliman1/optimized)**  
-   Advanced implementation of sorting and searching algorithms.  
-
----
-
-![AbdoSoliman1's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdoSoliman1&show_icons=true&theme=default)
+   A simple bank management system in C++ with OOP concepts.
 
 ---
 
 ## 📫 Contact Me
-* ✉️ Email: [your-email@gmail.com](mailto:your-email@gmail.com)  
-* 🔗 LinkedIn: [linkedin.com/in/AbdullahElSakr](https://www.linkedin.com/)
+* ✉️ Email: [your-email@gmail.com](mailto:pyramidfourth40@gmail.com)  
+* 🔗 LinkedIn: [linkedin.com/in/AbdullahElSakr](https://www.linkedin.com/in/abdallahahmed1/)
