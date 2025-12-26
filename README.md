@@ -26,8 +26,8 @@
 
 ---
 
-## 📈 GitHub Stats!
-![AbdoSoliman1's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdoSol1iman&show_icons=true&theme=default)
+![AbdoSoliman1's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdoSoliman1&show_icons=true&theme=default)
+
 
 ---
 
