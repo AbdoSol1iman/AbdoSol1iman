@@ -3,8 +3,9 @@
 🎓 Computer Science Student | Back-end Development Enthusiast  
 💻 C++ | C# | Java | OOP | Data Structures  
 
+<p align="center">
 ![Profile Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3R3ejc2Y3Z2cmRiYjQzMG5jbm12ZWd4ZmQ1M2p2dHB6eTM3MHA4ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUNd9LF2QaJujUfyQU/giphy.gif)
-
+</p>
 ---
 
 ## 🛠 Skills
@@ -18,10 +19,11 @@
 ---
 
 ## 📌 Featured Projects
-1. **[Algorithms-Design-Project](https://github.com/AbdoSoliman1/Algorithms-Design-Project)**  
-   Compare naive and optimized algorithms for different problems.  
-2. **[Bank-System-Cpp](https://github.com/AbdoSoliman1/Bank-System-Cpp)**  
+1. **[Bank-System-Cpp](https://github.com/AbdoSol1iman/BankSystem_OOPVersion)**  
    A simple bank management system in C++ with OOP concepts.
+
+2. **[Algorithms-Design-Project](https://github.com/AbdoSol1iman/Algorithms-Design-Project)**  
+   Compare naive and optimized algorithms for different problems.  
 
 ---
 
