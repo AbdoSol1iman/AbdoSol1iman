@@ -4,8 +4,10 @@
 💻 C++ | C# | Java | OOP | Data Structures  
 
 <p align="center">
-  <img src="[LINK-GIF-HERE](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3R3ejc2Y3Z2cmRiYjQzMG5jbm12ZWd4ZmQ1M2p2dHB6eTM3MHA4ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUNd9LF2QaJujUfyQU/giphy.gif)" width="400" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3R3ejc2Y3Z2cmRiYjQzMG5jbm12ZWd4ZmQ1M2p2dHB6eTM3MHA4ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUNd9LF2QaJujUfyQU/giphy.gif" width="400" />
 </p>
+
+
 ---
 
 ## 🛠 Skills
