@@ -24,8 +24,8 @@
 1. **[Bank-System-Cpp](https://github.com/AbdoSol1iman/BankSystem_OOPVersion)**  
    A simple bank management system in C++ with OOP concepts.
 
-2. **[Algorithms-Design-Project](https://github.com/AbdoSol1iman/Algorithms-Design-Project)**  
-   Compare naive and optimized algorithms for different problems.  
+2. **[Hotel-Reservation-System](https://github.com/AbdoSol1iman/spring-roadmap-tasks/tree/main/Hotel_Reservation_System)**  
+   An OOP java project with advanced topics like Multithreading & Concurrency, Exception Handling and File Handling.  
 
 ---
 
