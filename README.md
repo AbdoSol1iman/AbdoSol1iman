@@ -25,7 +25,7 @@
    A simple bank management system in C++ with OOP concepts.
 
 2. **[Hotel-Reservation-System](https://github.com/AbdoSol1iman/spring-roadmap-tasks/tree/main/Hotel_Reservation_System)**  
-   An OOP java project with advanced topics like Multithreading & Concurrency, Exception Handling and File Handling.  
+   An OOP java project ( advanced topics like Multithreading & Concurrency, Exception Handling and File Handling will be added).  
 
 ---
 
