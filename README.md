@@ -17,9 +17,6 @@
 <a href="mailto:pyramidfourth40@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://www.linkedin.com/in/abdallahahmed1/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
 <a href="https://github.com/AbdoSol1iman">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
@@ -38,7 +35,6 @@
 - 🔭 Currently learning **Spring Boot** & deepening knowledge in **Java**
 - 🌱 Exploring **Data Structures**, **Algorithms**, and **OOP** design principles
 - 💡 I enjoy building clean, well-structured software solutions
-- ⚡ Fun fact: I debug with `System.out.println` before switching to a real debugger 😄
 
 ---
 
@@ -82,37 +78,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Streak
 
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdoSol1iman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdoSol1iman&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdoSol1iman&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
-
-## 📌 Featured Projects
-
-<div align="center">
-
-[![Bank System](https://github-readme-stats.vercel.app/api/pin/?username=AbdoSol1iman&repo=BankSystem_OOPVersion&theme=tokyonight&hide_border=true)](https://github.com/AbdoSol1iman/BankSystem_OOPVersion)
-[![Spring Roadmap Tasks](https://github-readme-stats.vercel.app/api/pin/?username=AbdoSol1iman&repo=spring-roadmap-tasks&theme=tokyonight&hide_border=true)](https://github.com/AbdoSol1iman/spring-roadmap-tasks)
-
-</div>
-
-| Project | Description | Tech |
-|---|---|---|
-| 🏦 [Bank System (C++)](https://github.com/AbdoSol1iman/BankSystem_OOPVersion) | Bank management system built with OOP principles | C++, OOP |
-| 🏨 [Hotel Reservation System](https://github.com/AbdoSol1iman/spring-roadmap-tasks/tree/main/Hotel_Reservation_System) | OOP Java project with Multithreading, Exception & File Handling | Java, OOP |
-
----
-
 ## 📫 Contact Me
 
 <div align="center">
@@ -120,7 +93,6 @@
 | Platform | Link |
 |---|---|
 | 📧 Email | [pyramidfourth40@gmail.com](mailto:pyramidfourth40@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/abdallahahmed1](https://www.linkedin.com/in/abdallahahmed1/) |
 | 🐙 GitHub | [github.com/AbdoSol1iman](https://github.com/AbdoSol1iman) |
 
 </div>
