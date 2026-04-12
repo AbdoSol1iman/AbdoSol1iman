@@ -35,6 +35,7 @@
 - 🔭 Currently learning **Spring Boot** & deepening knowledge in **Java**
 - 🌱 Exploring **Data Structures**, **Algorithms**, and **OOP** design principles
 - 💡 I enjoy building clean, well-structured software solutions
+- 🏆 **First open-source contribution:** [checkstyle](https://github.com/checkstyle/checkstyle) org — **6 March**
 
 ---
 
