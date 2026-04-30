@@ -93,8 +93,8 @@
 
 | Platform | Link |
 |---|---|
-| 📧 Email | [pyramidfourth40@gmail.com](mailto:abdallahahmedmohamed.dev@gmail.com) |
-| 🐙 GitHub | [github.com/AbdoSol1iman](https://github.com/AbdoSol1iman) |
+| 📧 Email | [abdallahahmedmohamed.dev@gmail.com](mailto:abdallahahmedmohamed.dev@gmail.com) |
+| 🐙 Linkedin | [linkedin.com/in/abdallahahmed1/](https://www.linkedin.com/in/abdallahahmed1/) |
 
 </div>
 
