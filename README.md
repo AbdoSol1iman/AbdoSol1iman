@@ -14,7 +14,7 @@
 <br/>
 
 <!-- Social badges -->
-<a href="mailto:pyramidfourth40@gmail.com">
+<a href="mailto:abdallahahmedmohamed.dev@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 <a href="https://github.com/AbdoSol1iman">
@@ -93,7 +93,7 @@
 
 | Platform | Link |
 |---|---|
-| 📧 Email | [pyramidfourth40@gmail.com](mailto:pyramidfourth40@gmail.com) |
+| 📧 Email | [pyramidfourth40@gmail.com](mailto:abdallahahmedmohamed.dev@gmail.com) |
 | 🐙 GitHub | [github.com/AbdoSol1iman](https://github.com/AbdoSol1iman) |
 
 </div>
