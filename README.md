@@ -8,9 +8,15 @@
 
 <!-- Animated typing banner (lines are URL-encoded; each ';' separates a slide) -->
 <a href="https://github.com/AbdoSol1iman">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Abdullah+Soliman+%F0%9F%91%8B;Back-end+Developer+%7C+CS+Student;C%2B%2B+%7C+Java+%7C+Spring+Boot+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Abdullah+Soliman+[...]" />
 </a>
 
+<br/>
+
+<!-- Developer animation banner (man) -->
+<img src="https://camo.githubusercontent.com/4a40b714ec3e39aa4e41b2d28d17ca31b91a1b83f75b2e2c6f353ad059ba1f7f/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45786333567261485a31615746764e545a6b6333423161327778633363314f48646c6344566d5a44426f593364724e4851784e484a7659695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f4c4d634238586f7370475a4f3855517138372f67697068792e6769663f73697a653d3238266475726174696f6e3d3335303026636f6c6f723d3030463746462663656e7465723d74727565267643656e7465723d747275652677696474683d393030266c696e65733d436f6d70757465722b456e67696e656572696e672b53747564656e743b4261636b656e642b446576656c6f7065723b48617264776172652b2537432b5369676e616c2b50726f63657373696e672b2537432b4172636869746563747572653b4275696c64696e675f5265616c2d576f726c642b456e67696e656572696e672b536f6c7574696f6e73" width="900" alt="Computer Engineering Student | Backend Developer | Hardware & Signal Processing | Architecture | Building Real-World Engineering Solutions" />
+
+<br/>
 <br/>
 
 <!-- Social badges -->
@@ -101,5 +107,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=fff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=fff&animation=twinkl[...]" />
 </div>
