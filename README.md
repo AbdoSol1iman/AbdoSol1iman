@@ -8,7 +8,7 @@
 
 <!-- Animated typing banner (lines are URL-encoded; each ';' separates a slide) -->
 <a href="https://github.com/AbdoSol1iman">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Hi+there%2CI'm+Abdullah+Soliman.Back-end+dev." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Hi%2CI'm+Abdullah+Soliman[Back-end+dev.]" />
 </a>
 
 <br/>
