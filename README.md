@@ -48,7 +48,7 @@
 ## 🛠️ Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,git,github,mysql,html,css,sql,js,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java,spring,maven,git,github,dart,mysql,html,css,sqlserver,js,ts,vscode&perline=10" />
 </p>
 
 ---
