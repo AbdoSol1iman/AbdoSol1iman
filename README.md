@@ -44,44 +44,22 @@
 - 🏆 **First open-source contribution:** [checkstyle](https://github.com/checkstyle/checkstyle) org — **6 March**
 
 ---
+@@
+-## 🛠️ Tech Stack & Skills
 
-## 🛠️ Tech Stack & Skills
-
-### 💻 Languages
-<p>
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
-
-### 🚀 Frameworks & Tools
-<p>
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
-</p>
-
-### 🗄️ Databases
-<p>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  <img alt="T-SQL" src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-</p>
-
-### 🌐 Web
-<p>
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-### 📐 Concepts
-<p>
-  <img alt="OOP" src="https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge&logoColor=white"/>
-  <img alt="Data Structures" src="https://img.shields.io/badge/Data_Structures-0277BD?style=for-the-badge&logoColor=white"/>
-  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-6A1B9A?style=for-the-badge&logoColor=white"/>
-  <img alt="REST API" src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logoColor=white"/>
-</p>
++<p align="center">
++  <img src="https://skillicons.dev/icons?i=java,spring,maven,git,github,mysql,html,css,js,vscode&perline=10" />
++</p>
++
++<p align="center">
++  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
++  <img src="https://img.shields.io/badge/T--SQL-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
++  <img src="https://img.shields.io/badge/OOP-2563EB?style=for-the-badge&logo=bookstack&logoColor=white" />
++  <img src="https://img.shields.io/badge/Data%20Structures-7C3AED?style=for-the-badge&logo=databricks&logoColor=white" />
++  <img src="https://img.shields.io/badge/Algorithms-F97316?style=for-the-badge&logo=thealgorithms&logoColor=white" />
++  <img src="https://img.shields.io/badge/Problem%20Solving-16A34A?style=for-the-badge&logo=leetcode&logoColor=white" />
++  <img src="https://img.shields.io/badge/REST%20API-0D9488?style=for-the-badge&logo=fastapi&logoColor=white" />
++</p>
 
 ---
 
