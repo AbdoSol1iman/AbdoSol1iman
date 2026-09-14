@@ -44,27 +44,16 @@
 - 🏆 **First open-source contribution:** [checkstyle](https://github.com/checkstyle/checkstyle) org — **6 March**
 
 ---
-@@
--## 🛠️ Tech Stack & Skills
 
-+<p align="center">
-+  <img src="https://skillicons.dev/icons?i=java,spring,maven,git,github,mysql,html,css,js,vscode&perline=10" />
-+</p>
-+
-+<p align="center">
-+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-+  <img src="https://img.shields.io/badge/T--SQL-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-+  <img src="https://img.shields.io/badge/OOP-2563EB?style=for-the-badge&logo=bookstack&logoColor=white" />
-+  <img src="https://img.shields.io/badge/Data%20Structures-7C3AED?style=for-the-badge&logo=databricks&logoColor=white" />
-+  <img src="https://img.shields.io/badge/Algorithms-F97316?style=for-the-badge&logo=thealgorithms&logoColor=white" />
-+  <img src="https://img.shields.io/badge/Problem%20Solving-16A34A?style=for-the-badge&logo=leetcode&logoColor=white" />
-+  <img src="https://img.shields.io/badge/REST%20API-0D9488?style=for-the-badge&logo=fastapi&logoColor=white" />
-+</p>
+## 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,git,github,mysql,html,css,sql,js,vscode&perline=10" />
+</p>
 
 ---
 
 ## 📊 GitHub Streak
-
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdoSol1iman&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
